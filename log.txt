@@ -1,0 +1,9 @@
+Supprimer les silences:
+Tatar:
+Extracted non silent parts from 22083 files into folder /Users/siyuwang/Documents/TAL/M2/S1/Reseaux_neurones/projet/corpus_valide_sans_silence/tatar
+Chinois:
+Extracted non silent parts from 6234 files into folder /Users/siyuwang/Documents/TAL/M2/S1/Reseaux_neurones/projet/corpus_valide_sans_silence/chinois
+Estonien:
+Extracted non silent parts from 6446 files into folder /Users/siyuwang/Documents/TAL/M2/S1/Reseaux_neurones/projet/corpus_valide_sans_silence/estonien
+Mongol:
+Extracted non silent parts from 5554 files into folder /Users/siyuwang/Documents/TAL/M2/S1/Reseaux_neurones/projet/corpus_valide_sans_silence/mongol
