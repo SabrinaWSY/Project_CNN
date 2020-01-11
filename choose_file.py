@@ -1,5 +1,4 @@
 # Script for projet CNN TAL M2 Inalco 
-# Author : Siyu WANG
 # Choose validated audio files
 
 import os
