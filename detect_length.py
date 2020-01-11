@@ -1,5 +1,4 @@
 # Script for projet CNN TAL M2 Inalco 
-# Author : Siyu WANG
 # Detect length of wav files and remove files that are shorter than 0.8 seconds 
 
 import wave
