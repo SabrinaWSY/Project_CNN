@@ -1,5 +1,4 @@
 # Script for projet CNN TAL M2 Inalco 
-# Author : Siyu WANG
 # Cut mp3 files to chunks of 2 seconds and export in format .wav
 
 import os
